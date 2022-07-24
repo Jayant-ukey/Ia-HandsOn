@@ -1,3 +1,14 @@
+/*
+Write a program to receive a number and print the corresponding month name.
+Example1)
+I/P: 12
+O/P Expected : December
+
+Example2)
+I/P: 15
+O/P Expected : Invalid month
+*/
+
 import java.util.Scanner;
 
 public class MonthSw {
